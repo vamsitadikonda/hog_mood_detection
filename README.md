@@ -1,2 +1,2 @@
 # hog_mood_detection
-Mood detection using HOG
+A simple Mood detection system implemented using Histogram of Oriented Gradients (HOG) and trained using a SVM.
